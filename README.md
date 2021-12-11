@@ -12,7 +12,7 @@ SquareQueue Class
 # Trait
 
 ```
-Queue Trait
+QTrait 
 ```
 
 # Project Summary:
